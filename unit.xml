@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 78.0.3904 (Mac OS X 10.15.0)" package="unit" timestamp="2019-11-06T03:49:02" id="0" hostname="MacBook-Sainos.local" tests="5" errors="0" failures="0" time="0.297">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.87 Safari/537.36"/>
+  </properties>
+  <testcase name="AppComponent time variables should be pre-assigned" time="0.131" classname="unit.AppComponent"/>
+  <testcase name="AppComponent check resetVariables" time="0.055" classname="unit.AppComponent"/>
+  <testcase name="AppComponent check time edit functions" time="0.034" classname="unit.AppComponent"/>
+  <testcase name="AppComponent check start and stop" time="0.039" classname="unit.AppComponent"/>
+  <testcase name="AppComponent check if minutes and seconds are double digit" time="0.038" classname="unit.AppComponent"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
